@@ -51,8 +51,8 @@ The objective is to gain industry-ready Java skills and transition toward enterp
 | Day 06 | Classes & Objects | ✅ |
 | Day 07 | Constructors | ✅ |
 | Day 08 | Inheritance | ✅ |
-| Day 09 | Polymorphism | ⏳ |
-| Day 10 | Encapsulation | ⏳ |
+| Day 09 | Polymorphism | ✅ |
+| Day 10 | Encapsulation | ✅ |
 | Day 11 | Abstraction | ⏳ |
 | Day 12 | Arrays | ⏳ |
 | Day 13 | Strings | ⏳ |
